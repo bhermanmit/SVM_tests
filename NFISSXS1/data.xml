@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+ <max_features> 3 </max_features>
+
+ <traindata yvalue="0.0062293227" id="1">
+   <xinput index="1" value="7.21828520E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00619613211" id="2">
+   <xinput index="1" value="6.82693481E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00622438725" id="3">
+   <xinput index="1" value="7.25333214E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00621673436" id="4">
+   <xinput index="1" value="7.11352766E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00621312333" id="5">
+   <xinput index="1" value="7.17288315E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00621067176" id="6">
+   <xinput index="1" value="7.00138092E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00622117607" id="7">
+   <xinput index="1" value="7.14358091E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.006225369" id="8">
+   <xinput index="1" value="7.18884528E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00623994653" id="9">
+   <xinput index="1" value="7.39049137E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00622586246" id="10">
+   <xinput index="1" value="7.37675369E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00432257152" id="11">
+   <xinput index="1" value="7.06959069E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00619876493" id="12">
+   <xinput index="1" value="7.07743883E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="2.00000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00430699207" id="13">
+   <xinput index="1" value="6.82297349E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00621876785" id="14">
+   <xinput index="1" value="7.29274452E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="2.00000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00434282788" id="15">
+   <xinput index="1" value="7.36334622E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.0061969886" id="16">
+   <xinput index="1" value="7.04093218E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00621631298" id="17">
+   <xinput index="1" value="7.19100893E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00622810462" id="18">
+   <xinput index="1" value="7.21081078E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00619857084" id="19">
+   <xinput index="1" value="6.88219488E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00620197883" id="20">
+   <xinput index="1" value="7.17714787E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00533021971" id="21">
+   <xinput index="1" value="7.03091264E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00434201269" id="22">
+   <xinput index="1" value="7.27877259E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00535906864" id="23">
+   <xinput index="1" value="7.16018677E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00434165361" id="24">
+   <xinput index="1" value="7.26542175E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00533704862" id="25">
+   <xinput index="1" value="6.95029557E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00433969861" id="26">
+   <xinput index="1" value="7.15782285E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00536248303" id="27">
+   <xinput index="1" value="7.22352207E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00434035656" id="28">
+   <xinput index="1" value="7.28683650E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00532192168" id="29">
+   <xinput index="1" value="6.95180953E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.0062077625" id="30">
+   <xinput index="1" value="7.29713023E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00623194528" id="31">
+   <xinput index="1" value="7.31607080E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00622828937" id="32">
+   <xinput index="1" value="7.23880470E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00532142652" id="33">
+   <xinput index="1" value="6.96118951E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00534967503" id="34">
+   <xinput index="1" value="7.20014870E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00533395331" id="35">
+   <xinput index="1" value="6.90332711E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.0043325427" id="36">
+   <xinput index="1" value="7.04685032E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00537052922" id="37">
+   <xinput index="1" value="7.24588811E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00433845165" id="38">
+   <xinput index="1" value="7.19062865E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00534023794" id="39">
+   <xinput index="1" value="6.91243589E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00435189297" id="40">
+   <xinput index="1" value="7.36906826E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00535212474" id="41">
+   <xinput index="1" value="7.16176748E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00534382743" id="42">
+   <xinput index="1" value="7.11339831E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00529838802" id="43">
+   <xinput index="1" value="6.71465337E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00622143632" id="44">
+   <xinput index="1" value="7.08980620E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00620802408" id="45">
+   <xinput index="1" value="6.97069705E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00622471252" id="46">
+   <xinput index="1" value="7.39908576E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00435071142" id="47">
+   <xinput index="1" value="7.37906575E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00535266372" id="48">
+   <xinput index="1" value="7.14584291E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00433435169" id="49">
+   <xinput index="1" value="7.05640554E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00534240469" id="50">
+   <xinput index="1" value="6.94370508E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00431295734" id="51">
+   <xinput index="1" value="6.76899612E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00533754345" id="52">
+   <xinput index="1" value="6.89734221E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00434260997" id="53">
+   <xinput index="1" value="7.25448668E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00537287962" id="54">
+   <xinput index="1" value="7.31430233E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00433355841" id="55">
+   <xinput index="1" value="6.95971429E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00535429204" id="56">
+   <xinput index="1" value="7.25729167E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00433729757" id="57">
+   <xinput index="1" value="7.24949718E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00620257256" id="58">
+   <xinput index="1" value="7.19323099E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00621596168" id="59">
+   <xinput index="1" value="7.17180550E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00620685766" id="60">
+   <xinput index="1" value="7.01102436E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00430704816" id="61">
+   <xinput index="1" value="6.81111276E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.0053660298" id="62">
+   <xinput index="1" value="7.29842961E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00432485369" id="63">
+   <xinput index="1" value="6.91310942E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00534350392" id="64">
+   <xinput index="1" value="7.02405691E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00435287517" id="65">
+   <xinput index="1" value="7.40673125E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00536917469" id="66">
+   <xinput index="1" value="7.30369806E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00434946036" id="67">
+   <xinput index="1" value="7.39041090E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00534937817" id="68">
+   <xinput index="1" value="7.02432692E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00433083891" id="69">
+   <xinput index="1" value="7.04858363E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00536572468" id="70">
+   <xinput index="1" value="7.21769094E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00433267018" id="71">
+   <xinput index="1" value="7.04219580E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00533917098" id="72">
+   <xinput index="1" value="6.91045344E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00431161691" id="73">
+   <xinput index="1" value="6.98946714E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00618639681" id="74">
+   <xinput index="1" value="6.80919349E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00621443213" id="75">
+   <xinput index="1" value="7.12271690E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00621316676" id="76">
+   <xinput index="1" value="7.28551030E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="2.00000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00433146842" id="77">
+   <xinput index="1" value="7.02581584E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00534286333" id="78">
+   <xinput index="1" value="7.00205684E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.0043100457" id="79">
+   <xinput index="1" value="6.74557209E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00536999957" id="80">
+   <xinput index="1" value="7.34841347E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00431299378" id="81">
+   <xinput index="1" value="6.72946632E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00534472119" id="82">
+   <xinput index="1" value="7.05237091E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00434788514" id="83">
+   <xinput index="1" value="7.29401231E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.0053251773" id="84">
+   <xinput index="1" value="6.79802835E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00433956974" id="85">
+   <xinput index="1" value="7.21920371E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00537503592" id="86">
+   <xinput index="1" value="7.37204671E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00433382547" id="87">
+   <xinput index="1" value="7.14824915E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00621275012" id="88">
+   <xinput index="1" value="7.25868404E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="2.00000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00618460571" id="89">
+   <xinput index="1" value="6.78125322E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00623593406" id="90">
+   <xinput index="1" value="7.35410869E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00432474719" id="91">
+   <xinput index="1" value="7.08851218E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00533646116" id="92">
+   <xinput index="1" value="6.92546785E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00432074622" id="93">
+   <xinput index="1" value="6.92851543E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00532958771" id="94">
+   <xinput index="1" value="6.83089435E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00431588539" id="95">
+   <xinput index="1" value="6.76132977E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00532647096" id="96">
+   <xinput index="1" value="6.81084812E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00434448866" id="97">
+   <xinput index="1" value="7.18943179E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.0053737853" id="98">
+   <xinput index="1" value="7.40492880E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.0043201462" id="99">
+   <xinput index="1" value="6.81971967E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00532598227" id="100">
+   <xinput index="1" value="6.74055874E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00434968039" id="101">
+   <xinput index="1" value="7.39790261E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00534545436" id="102">
+   <xinput index="1" value="7.08037496E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00431549064" id="103">
+   <xinput index="1" value="6.99093759E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00618983639" id="104">
+   <xinput index="1" value="6.87283635E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00619804338" id="105">
+   <xinput index="1" value="6.94784164E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00619248226" id="106">
+   <xinput index="1" value="6.95513666E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="2.00000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00432915521" id="107">
+   <xinput index="1" value="7.07418859E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00536695477" id="108">
+   <xinput index="1" value="7.24999070E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00431242856" id="109">
+   <xinput index="1" value="6.78224981E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00535985008" id="110">
+   <xinput index="1" value="7.23092854E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00434786585" id="111">
+   <xinput index="1" value="7.26514220E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00535968882" id="112">
+   <xinput index="1" value="7.30891228E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00431559303" id="113">
+   <xinput index="1" value="6.73220575E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00537143807" id="114">
+   <xinput index="1" value="7.36924529E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00430977365" id="115">
+   <xinput index="1" value="6.77042723E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00533766564" id="116">
+   <xinput index="1" value="6.94528997E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00433161623" id="117">
+   <xinput index="1" value="7.13453531E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.0062244831" id="118">
+   <xinput index="1" value="7.34982729E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="2.00000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00620146488" id="119">
+   <xinput index="1" value="6.94474280E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00618170161" id="120">
+   <xinput index="1" value="6.72256052E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00432869112" id="121">
+   <xinput index="1" value="7.23190784E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00536019642" id="122">
+   <xinput index="1" value="7.29853272E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00431234805" id="123">
+   <xinput index="1" value="6.71919823E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.0053608746" id="124">
+   <xinput index="1" value="7.25849390E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00432656071" id="125">
+   <xinput index="1" value="6.96311831E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00535112198" id="126">
+   <xinput index="1" value="7.11189747E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00431119691" id="127">
+   <xinput index="1" value="6.71289980E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00532116627" id="128">
+   <xinput index="1" value="6.73927963E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00432065562" id="129">
+   <xinput index="1" value="6.83330595E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00537083473" id="130">
+   <xinput index="1" value="7.37581730E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00432192748" id="131">
+   <xinput index="1" value="6.84423804E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00536007469" id="132">
+   <xinput index="1" value="7.23607063E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00434272356" id="133">
+   <xinput index="1" value="7.35793293E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00624046215" id="134">
+   <xinput index="1" value="7.36661315E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00619596524" id="135">
+   <xinput index="1" value="6.80862963E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00615950525" id="136">
+   <xinput index="1" value="6.75218105E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00431674757" id="137">
+   <xinput index="1" value="6.91769600E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00534950488" id="138">
+   <xinput index="1" value="7.12912798E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00431174979" id="139">
+   <xinput index="1" value="6.70890927E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00535730547" id="140">
+   <xinput index="1" value="7.18155622E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00432387411" id="141">
+   <xinput index="1" value="6.94329739E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00533793214" id="142">
+   <xinput index="1" value="6.92372143E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00434864484" id="143">
+   <xinput index="1" value="7.28006065E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00535226631" id="144">
+   <xinput index="1" value="7.04338908E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00432162594" id="145">
+   <xinput index="1" value="6.92780972E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00534017353" id="146">
+   <xinput index="1" value="7.04372048E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00433171323" id="147">
+   <xinput index="1" value="7.20028877E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00616475003" id="148">
+   <xinput index="1" value="6.74647868E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00623888386" id="149">
+   <xinput index="1" value="7.38977492E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00622854567" id="150">
+   <xinput index="1" value="7.31782019E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00531914762" id="151">
+   <xinput index="1" value="6.90925002E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00536353973" id="152">
+   <xinput index="1" value="7.38023043E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00534258313" id="153">
+   <xinput index="1" value="7.08436370E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00433970487" id="154">
+   <xinput index="1" value="7.18148351E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00532965438" id="155">
+   <xinput index="1" value="6.85002446E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00435242314" id="156">
+   <xinput index="1" value="7.36586511E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00536619962" id="157">
+   <xinput index="1" value="7.19045997E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00435050927" id="158">
+   <xinput index="1" value="7.38379419E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00536704465" id="159">
+   <xinput index="1" value="7.33276844E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00533354129" id="160">
+   <xinput index="1" value="6.91589534E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.20000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00531848422" id="161">
+   <xinput index="1" value="6.95961833E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00619150286" id="162">
+   <xinput index="1" value="6.82282150E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00620682751" id="163">
+   <xinput index="1" value="6.90236747E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00621073958" id="164">
+   <xinput index="1" value="7.34860659E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00534210233" id="165">
+   <xinput index="1" value="7.24307001E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00431105477" id="166">
+   <xinput index="1" value="6.81837082E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00535919153" id="167">
+   <xinput index="1" value="7.26508617E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00430999647" id="168">
+   <xinput index="1" value="6.80377066E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00534880261" id="169">
+   <xinput index="1" value="7.13917732E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00431112253" id="170">
+   <xinput index="1" value="6.79531515E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.0053181335" id="171">
+   <xinput index="1" value="6.70778275E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00434181898" id="172">
+   <xinput index="1" value="7.31711745E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00530485102" id="173">
+   <xinput index="1" value="6.85330153E-01" />
+   <xinput index="2" value="2.40000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00617374792" id="174">
+   <xinput index="1" value="6.85752273E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.0062388879" id="175">
+   <xinput index="1" value="7.39490509E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00621636164" id="176">
+   <xinput index="1" value="7.03279257E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00623233346" id="177">
+   <xinput index="1" value="7.36753285E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00620401808" id="178">
+   <xinput index="1" value="7.16126442E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00433737654" id="179">
+   <xinput index="1" value="7.33778477E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00617157363" id="180">
+   <xinput index="1" value="6.78586066E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="2.00000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00432215606" id="181">
+   <xinput index="1" value="7.03520775E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00618044523" id="182">
+   <xinput index="1" value="6.87930822E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="2.00000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.0043196047" id="183">
+   <xinput index="1" value="7.08754301E-01" />
+   <xinput index="2" value="1.60000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00619432475" id="184">
+   <xinput index="1" value="7.10868955E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="1.60000000E+01" />
+ </traindata>
+
+ <traindata yvalue="0.00618875865" id="185">
+   <xinput index="1" value="6.71572804E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00619938763" id="186">
+   <xinput index="1" value="6.85839772E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00622011011" id="187">
+   <xinput index="1" value="7.14299560E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00622578202" id="188">
+   <xinput index="1" value="7.22629666E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00621961841" id="189">
+   <xinput index="1" value="7.26371765E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00623543642" id="190">
+   <xinput index="1" value="7.36689806E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00622337365" id="191">
+   <xinput index="1" value="7.22497344E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00623922226" id="192">
+   <xinput index="1" value="7.35279620E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+ <traindata yvalue="0.00618401981" id="193">
+   <xinput index="1" value="6.72686219E-01" />
+   <xinput index="2" value="3.10000000E+00" />
+   <xinput index="3" value="0.00000000E+00" />
+ </traindata>
+
+</data>
